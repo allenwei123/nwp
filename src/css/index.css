@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    width:500px;
+    height: 500px;
+    border: 1px solid black;
+    line-height: 200px;
+    background-image: url('../image/123.jpg');
+    text-align: center;
+}
